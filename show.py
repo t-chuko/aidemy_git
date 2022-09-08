@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/miniconda/python
 # -*- coding: utf-8 -*-
 
 import random
